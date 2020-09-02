@@ -1,1 +1,22 @@
 
+#studioArt {background-color: deeppink}
+#studioArt {font-family: cursive}
+#studioArt h1 {color: floralwhite}
+#studioArt h1 {font-size: 400% }
+#Economics {background-color: cornflowerblue}
+#Economics h1 {font-size: 400%}
+#Politics {background-color: darkred}
+#Politics h1 {color: floralwhite}
+#Politics h1 {font-size: 400%}
+#ComputerScience {background-color: chartreuse}
+#ComputerScience h1 {font-size: 400%}
+#Mathematics {background-color: aquamarine}
+#Mathematics h1 {font-size: 400%}
+#landing {background-color: dimgrey}
+#landing h1 {color: floralwhite}
+#landing h1 {font-size: 400%}
+#landing <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQyRpfRpNZ4YvsjmU0Ec6iUv48K0l0vsV-3wg&usqp=CAU" alt="logo" class="allign-bottom medium"  />
+
+
+*table { border-collapse: collapse;}
+*table, th, td {border: 1px solid black;}
