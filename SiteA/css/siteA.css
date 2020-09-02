@@ -1,5 +1,6 @@
 
 #studioArt {background-color: deeppink}
+img {border-radius: 100%}
 #studioArt {font-family: cursive}
 #studioArt h1 {color: floralwhite}
 #studioArt h1 {font-size: 400% }
@@ -15,8 +16,19 @@
 #landing {background-color: dimgrey}
 #landing h1 {color: floralwhite}
 #landing h1 {font-size: 400%}
-#landing <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQyRpfRpNZ4YvsjmU0Ec6iUv48K0l0vsV-3wg&usqp=CAU" alt="logo" class="allign-bottom medium"  />
+#landing {background-image: url("../../background.jpg");}
+#landing {background-size: cover}
+#landing ul{color: floralwhite}
+#landing p {color: floralwhite}
+#landing p {font-size: 200%}
+#landing p.uli {color: floralwhite}
+#landing p.uli {font-size: 200%}
 
-
-*table { border-collapse: collapse;}
-*table, th, td {border: 1px solid black;}
+table {border-collapse: collapse}
+table, th, td {border: 3px solid white;}
+table {border-color: floralwhite}
+table {width: 50%;}
+th { height: 100px;}
+th {text-align: center;}
+th, td { padding: 15px;}
+th, td {border-bottom: 3px solid #ddd;}
