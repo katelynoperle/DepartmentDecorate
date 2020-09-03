@@ -1,1 +1,46 @@
 
+#studioArt {background-color: cornsilk}
+img {border-radius: 100%}
+#studioArt {font-family: monospace}
+#studioArt h1 {color: black; text-align: center; font-size: 250%}
+#studioArt p {color: black;font-size: 120%; text-align: center}
+
+#Economics {background-color: darkgrey}
+#Economics {font-family: monospace}
+#Economics h1 {color: lightgoldenrodyellow; font-size: 250%; text-align: center}
+#Economics p {color: lightgoldenrodyellow;font-size: 120%; text-align: center}
+
+#Politics {background-color: dimgrey}
+#Politics {font-family: monospace}
+#Politics h1 {color:yellow; text-align: center; font-size: 250%}
+#Politics p {color:yellow; font-size: 120%; text-align: center}
+
+
+#ComputerScience {background-color: lightyellow}
+#ComputerScience {font-family: monospace}
+#ComputerScience h1 {color:slategrey; text-align: center; font-size: 250%}
+#ComputerScience p {color:slategray; font-size: 120%; text-align: center}
+
+#Mathematics {background-color: dimgrey}
+#Mathematics {font-family: monospace}
+#Mathematics h1 {color:yellow; text-align: center; font-size: 250%}
+#Mathematics p {color:yellow; font-size: 120%; text-align: center}
+
+#landing {background-color: yellow}
+#landing {font-family: monospace}
+#landing h1 {color: black; text-align: center; font-size: 250%}
+#landing p {color: black; text-align: center; font-size: 120%}
+#landing {background-image: url("../ytbbackground.jpg")}
+#landing {background-size: cover}
+#landing ul{color: black}
+
+table {border-collapse: collapse}
+table {margin-right: auto; margin-left:auto}
+table {text-align: center; color:black}
+table, th, td {border: 3px solid black;}
+table {border-color: black}
+table {width: 50%;}
+th { height: 100px;}
+th {text-align: center;}
+th, td { padding: 15px;}
+th, td {border-bottom: 3px solid black;}
